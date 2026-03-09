@@ -79,5 +79,3 @@ My work focuses on:
 GitHub  
 https://github.com/markalexndr
 
-Portfolio (in progress)  
-markalexndr.com
