@@ -4,46 +4,62 @@ Technical writing, documentation and simple tools that explain how systems work.
 
 ---
 
-## Current Project
+## Projects
 
 ### ClearLedger
 
-A privacy-first personal finance snapshot tool.
+A privacy-first financial snapshot tool.
 
-ClearLedger allows users to quickly understand their financial position by entering:
-
-- income
-- expenses
-- debts
-- assets
-
-The application calculates:
+Users enter income, expenses, debts and assets to quickly understand:
 
 - monthly balance
 - net worth
 
-All data is stored locally in the browser using localStorage.
-
-Live tool:
-
+Live tool  
 https://markalexndr.github.io/clearledger
 
-Repository:
-
+Repository  
 https://github.com/markalexndr/clearledger
+
+---
+
+### QuidsIn
+
+A privacy-first tool that answers a simple question:
+
+**Can you afford to take today off?**
+
+Users enter:
+
+- monthly liabilities
+- monthly expenses
+- daily earnings
+- days worked
+
+The tool calculates whether costs have already been covered this month.
+
+Live tool  
+https://markalexndr.github.io/quidsin
+
+Repository  
+https://github.com/markalexndr/quidsin
 
 ---
 
 ## Writing Samples
 
-Short technical writing examples derived from the ClearLedger project:
+Technical writing examples derived from the projects above.
 
 - [Using Local Storage in Browser Applications](https://github.com/markalexndr/clearledger/blob/main/docs/writing-samples/local-storage-explained.md)
 - [Calculating Net Worth](https://github.com/markalexndr/clearledger/blob/main/docs/writing-samples/calculating-net-worth.md)
 - [Designing Privacy-First Tools](https://github.com/markalexndr/clearledger/blob/main/docs/writing-samples/privacy-first-tools.md)
-- [Designing Simple Financial Tools](https://github.com/markalexndr/clearledger/blob/main/docs/writing-samples/designing-simple-financial-tools.md)
+- [Designing Simple Financial Tools](https://github.com/clearledger/blob/main/docs/writing-samples/designing-simple-financial-tools.md)
 
-These examples demonstrate documentation, explanation and instructional writing.
+Additional writing samples from the QuidsIn project:
+
+- [Decision-Based Tools](https://github.com/markalexndr/quidsin/blob/main/docs/writing-samples/decision-based-tools.md)
+- [Simple Financial Calculations](https://github.com/markalexndr/quidsin/blob/main/docs/writing-samples/simple-financial-calculations.md)
+- [Privacy-First Design](https://github.com/markalexndr/quidsin/blob/main/docs/writing-samples/privacy-first-design.md)
 
 ---
 
@@ -53,11 +69,15 @@ My work focuses on:
 
 - technical documentation
 - explaining systems clearly
-- simple tools with transparent behaviour
+- simple browser-based tools
 - privacy-aware design
 
 ---
 
-## Location
+## Links
 
-United Kingdom
+GitHub  
+https://github.com/markalexndr
+
+Portfolio (in progress)  
+markalexndr.com
