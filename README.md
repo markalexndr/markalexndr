@@ -36,12 +36,12 @@ https://github.com/markalexndr/clearledger
 
 ## Writing Samples
 
-Short technical writing examples from the ClearLedger project:
+Short technical writing examples derived from the ClearLedger project:
 
-- Explaining browser local storage
-- Calculating net worth
-- Designing privacy-first tools
-- Designing simple financial tools
+- [Using Local Storage in Browser Applications](https://github.com/markalexndr/clearledger/blob/main/docs/writing-samples/local-storage-explained.md)
+- [Calculating Net Worth](https://github.com/markalexndr/clearledger/blob/main/docs/writing-samples/calculating-net-worth.md)
+- [Designing Privacy-First Tools](https://github.com/markalexndr/clearledger/blob/main/docs/writing-samples/privacy-first-tools.md)
+- [Designing Simple Financial Tools](https://github.com/markalexndr/clearledger/blob/main/docs/writing-samples/designing-simple-financial-tools.md)
 
 These examples demonstrate documentation, explanation and instructional writing.
 
