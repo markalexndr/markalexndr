@@ -1,16 +1,63 @@
-## Hi there 👋
+# Mark Alexander
 
-<!--
-**markalexndr/markalexndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical writing, documentation and simple tools that explain how systems work.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+
+### ClearLedger
+
+A privacy-first personal finance snapshot tool.
+
+ClearLedger allows users to quickly understand their financial position by entering:
+
+- income
+- expenses
+- debts
+- assets
+
+The application calculates:
+
+- monthly balance
+- net worth
+
+All data is stored locally in the browser using localStorage.
+
+Live tool:
+
+https://markalexndr.github.io/clearledger
+
+Repository:
+
+https://github.com/markalexndr/clearledger
+
+---
+
+## Writing Samples
+
+Short technical writing examples from the ClearLedger project:
+
+- Explaining browser local storage
+- Calculating net worth
+- Designing privacy-first tools
+- Designing simple financial tools
+
+These examples demonstrate documentation, explanation and instructional writing.
+
+---
+
+## Focus
+
+My work focuses on:
+
+- technical documentation
+- explaining systems clearly
+- simple tools with transparent behaviour
+- privacy-aware design
+
+---
+
+## Location
+
+United Kingdom
