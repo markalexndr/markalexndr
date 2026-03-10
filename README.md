@@ -1,6 +1,7 @@
 # Mark Alexander
 
-Technical writing, documentation and simple tools that explain how systems work.
+Journalist-turned documentation specialist with 15+ years experience working across websites, CMS platforms, CRM systems and low-code service design. I specialise in explaining complex systems clearly, producing documentation and guidance that help users and teams understand and adopt digital services. 
+My background in journalism shapes how I structure information and write practical, human-readable documentation.
 
 ---
 
