@@ -73,10 +73,5 @@ My work focuses on:
 - simple browser-based tools
 - privacy-aware design
 
----
 
-## Links
-
-GitHub  
-https://github.com/markalexndr
 
