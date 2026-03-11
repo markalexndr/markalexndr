@@ -56,4 +56,4 @@ I write clearly for non-technical audiences. I also understand how developers wo
 
 ## Approach
 
-I treat documentation as a design problem. The question is never just _what does this system do_, it's - _what does this person need to know, in what order, and in what form_.
+I treat documentation as a design problem. The question is never just _what does this system do_, it's - _what does this person need to know, in what order and in what form_.
