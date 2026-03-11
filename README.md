@@ -1,8 +1,8 @@
 # Mark Alexander
 
-Technical writer and content specialist with a background in journalism and 15+ years working across digital publishing, web content systems, and public sector services.
+Technical writer and content specialist with a background in journalism and 15+ years working across digital publishing, web content systems and public sector services.
 
-I specialise in documentation that helps real people - frontline staff, service users, content editors - understand and use complex systems with confidence. My journalism background shapes how I structure information: clearly, precisely, and with the reader's needs first.
+I specialise in documentation that helps real people - frontline staff, service users, content editors - understand and use complex systems with confidence. My journalism background shapes how I structure information: clearly, precisely and with the reader's needs first.
 
 ---
 
@@ -48,12 +48,12 @@ A simple decision tool: can you afford to take today off? Designed for freelance
 
 ## Background
 
-My career has moved through journalism, digital publishing, web content management, and public sector service design. Earlier I built and managed websites and online publications using tools that no longer exist and some that still do - which means I understand the web as a publishing medium at a fairly deep level.
+My career has moved through journalism, digital publishing, web content management and public sector service design. Earlier I built and managed websites and online publications using tools that no longer exist and some that still do which means I understand the web as a publishing medium at a fairly deep level.
 
-I write clearly for non-technical audiences. I also understand how developers work, how content is structured and published, and how documentation fits into a wider service or product.
+I write clearly for non-technical audiences. I also understand how developers work, how content is structured and published and how documentation fits into a wider service or product.
 
 ---
 
 ## Approach
 
-I treat documentation as a design problem. The question is never just _what does this system do_ - it's _what does this person need to know, in what order, and in what form_.
+I treat documentation as a design problem. The question is never just _what does this system do_, it's - _what does this person need to know, in what order, and in what form_.
